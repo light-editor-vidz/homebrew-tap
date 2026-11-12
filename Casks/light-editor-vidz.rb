@@ -1,6 +1,6 @@
 cask "light-editor-vidz" do
-  version "1.0.2"
-  sha256 "c88378142a380f71f5923c68ba3440c2c403f53cae8b94ea78ae8e7d1d65b926"
+  version "1.1.1"
+  sha256 "744a482b6c5f200d87b2f88cf96665ac7a52915d0213f70afdb3ed2a60716afa"
 
   url "https://github.com/light-editor-vidz/light-editor-vidz/releases/download/v#{version}/LightEditorVidz_universal.app.tar.gz"
   name "LightEditorVidz"
